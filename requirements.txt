@@ -1,2 +1,9 @@
 # requirements.txt file
 Django==2.2.3
+ddt
+
+coverage==5.1
+diff-cover==2.6.1
+pytest-cov==2.8.1
+pytest-django==3.8.0
+pytest==5.3.5
