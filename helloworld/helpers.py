@@ -1,3 +1,5 @@
 def add_it(x, y):
-    x += x
     return x + y
+
+def sub_it(x, y):
+    return x - y
